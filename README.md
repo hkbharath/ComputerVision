@@ -1,4 +1,4 @@
-# ComputerVision Assignment 1 Task A
+# Computer Vision Assignment 1 Task A - CV_PCA.ipynb
 
 1. Download the Image "https://pixabay.com/photos/forest-path-trees-leaves-fog-5724397/" to drive space.
 2. Set `image_folder` to the path of drive foder containig the image and set `image_name` to the name of the downloaded image.
